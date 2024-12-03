@@ -38,3 +38,9 @@
 12. CE0606 - Cadastro de natureza de operação
     - Permite o cadastro de naturezas de operação para as CFOP que existem.
     - Permite o cadastro de todas as informações, como atualizações em outros módulos.
+12. RE1001 - Recebimento Fiscal
+13. RE2001 - Recebimento Fisico
+14. RE0905 - Fichas de contagem
+15. RE2002 - Digitação de contagem
+16. RE2005 - Atualização de recebimento fisico
+17. RE2006 - Desatualização recebimento fisico
